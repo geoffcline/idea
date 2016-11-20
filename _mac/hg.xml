@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/gdcwd5/cs5200-hw9" value="gdcwd5@missouri.edu" />
+      </map>
+    </option>
+  </component>
+</application>
