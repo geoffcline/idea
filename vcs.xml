@@ -10,6 +10,10 @@
           <option name="url" value="git@bitbucket.org:mst-gdcwd5/cs5200-hw6.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:mst-gdcwd5/p1-connect4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
